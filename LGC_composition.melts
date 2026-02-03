@@ -1,0 +1,27 @@
+Title: LGC100-DES00
+Initial Composition: Al2O3 14.77
+Initial Composition: MgO 3.31
+Initial Composition: Cr2O3 0.01
+Initial Composition: FeO 4.25
+Initial Composition: CoO 0.01
+Initial Composition: SiO2 61.38
+Initial Composition: Fe2O3 2.13
+Initial Composition: H2O 2.00
+Initial Composition: CaO 5.34
+Initial Composition: CO2 0.37
+Initial Composition: TiO2 0.66
+Initial Composition: MnO 0.08
+Initial Composition: K2O 1.31
+Initial Composition: NiO 0.01
+Initial Composition: P2O5 0.20
+Initial Composition: Na2O 4.17
+
+Initial Temperature: 1400
+Final Temperature: 700
+Increment Temperature: 2
+Initial Pressure: 1000
+Final Pressure: 1000
+Increment Pressure: 0.00
+dp/dt: 0
+log fo2 Path: None
+Mode: Fractionate Solids
