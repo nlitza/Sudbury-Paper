@@ -1,10 +1,9 @@
 # Sudbury-Paper
 
-
 # Data and Scripts for Impact and Crystallization Modeling of the Sudbury Basin
 
 ## Overview
-This Zenodo archive contains input files and analysis scripts used in the study:
+This archive contains input files and analysis scripts used in the study:
 
 **Impact and Crystallization Modeling of the Sudbury Basin and its Implications for a Hadean Crust**  
 Litza et al. (2026)
